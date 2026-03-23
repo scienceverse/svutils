@@ -1,0 +1,22 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# svutils <a href="https://www.scienceverse.org/svutils/"><img src="man/figures/logo.png" align="right" height="120" /></a>
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of svutils is to collect common utility functions used by
+scienceverse packages, such as
+[metacheck](https://scienceverse.org/metacheck) and
+[faux](https://scienceverse.org/faux).
+
+## Installation
+
+You can install the development version of svutils from
+[GitHub](https://github.com/) with:
+
+``` r
+devtools::install_github("scienceverse/svutils")
+```
