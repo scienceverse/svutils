@@ -5,6 +5,7 @@
 #' @param join optional string to join vectors
 #'
 #' @returns text
+#' @export
 xml_find <- function(xml, xpath, join = NULL) {
   text <- xml2::xml_find_all(xml, xpath) |>
     xml2::xml_text(trim = TRUE) |>
@@ -24,6 +25,7 @@ xml_find <- function(xml, xpath, join = NULL) {
 #' @param join optional string to join vectors
 #'
 #' @returns text
+#' @export
 xml_find1 <- function(xml, xpath, join = NULL) {
   xml_find(xml, xpath, join)[[1]]
 }
