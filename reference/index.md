@@ -2,11 +2,23 @@
 
 ## All functions
 
+- [`check_orcid()`](http://www.scienceverse.org/svutils/reference/check_orcid.md)
+  : Check validity of ORCiD
+- [`credit_roles()`](http://www.scienceverse.org/svutils/reference/credit_roles.md)
+  : CRediT Roles
+- [`get_orcid()`](http://www.scienceverse.org/svutils/reference/get_orcid.md)
+  : Get ORCiD from Name
 - [`message()`](http://www.scienceverse.org/svutils/reference/message.md)
   : Less scary green messages
 - [`online()`](http://www.scienceverse.org/svutils/reference/online.md)
   : Check if the host of a URL is online
+- [`orcid_person()`](http://www.scienceverse.org/svutils/reference/orcid_person.md)
+  : Get Person Details for ORCiD
 - [`pb()`](http://www.scienceverse.org/svutils/reference/pb.md) :
   Progress Bar
 - [`verbose()`](http://www.scienceverse.org/svutils/reference/verbose.md)
   : Set or get verbosity
+- [`xml_find()`](http://www.scienceverse.org/svutils/reference/xml_find.md)
+  : Find and return info from XML by xpath
+- [`xml_find1()`](http://www.scienceverse.org/svutils/reference/xml_find1.md)
+  : Find and return first info from XML by xpath

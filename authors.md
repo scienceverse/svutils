@@ -13,12 +13,12 @@ Source:
 [`DESCRIPTION`](https://github.com/scienceverse/svutils/blob/master/DESCRIPTION)
 
 DeBruine L, Lakens D (2026). *svutils: Scienceverse Utilities*. R
-package version 0.0.0.9000, <https://github.com/scienceverse/svutils>.
+package version 0.0.0.9001, <https://github.com/scienceverse/svutils>.
 
     @Manual{,
       title = {svutils: Scienceverse Utilities},
       author = {Lisa DeBruine and Daniel Lakens},
       year = {2026},
-      note = {R package version 0.0.0.9000},
+      note = {R package version 0.0.0.9001},
       url = {https://github.com/scienceverse/svutils},
     }

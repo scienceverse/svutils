@@ -1,0 +1,29 @@
+# Get Person Details for ORCiD
+
+Get Person Details for ORCiD
+
+## Usage
+
+``` r
+orcid_person(orcid)
+```
+
+## Arguments
+
+- orcid:
+
+  a vector of ORCiDs
+
+## Value
+
+A data frame of details
+
+## Examples
+
+``` r
+# \donttest{
+orcids <- c("0000-0002-0247-239X", "0000-0002-7523-5539")
+orcid_person(orcids)
+#> Error in loadNamespace(x): there is no package called ‘dplyr’
+# }
+```
