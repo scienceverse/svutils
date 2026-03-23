@@ -1,6 +1,6 @@
 Package: svutils
 Title: Scienceverse Utilities
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: c(
     person(
         given = "Lisa", 
@@ -27,6 +27,8 @@ Config/testthat/edition: 3
 Imports: 
     curl,
     progress,
-    urltools
+    urltools,
+    utils,
+    xml2
 URL: https://github.com/scienceverse/svutils, http://www.scienceverse.org/svutils/
 BugReports: https://github.com/scienceverse/svutils/issues
