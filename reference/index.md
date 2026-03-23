@@ -1,0 +1,12 @@
+# Package index
+
+## All functions
+
+- [`message()`](http://www.scienceverse.org/svutils/reference/message.md)
+  : Less scary green messages
+- [`online()`](http://www.scienceverse.org/svutils/reference/online.md)
+  : Check if the host of a URL is online
+- [`pb()`](http://www.scienceverse.org/svutils/reference/pb.md) :
+  Progress Bar
+- [`verbose()`](http://www.scienceverse.org/svutils/reference/verbose.md)
+  : Set or get verbosity
