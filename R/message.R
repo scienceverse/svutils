@@ -5,8 +5,7 @@
 #' @param appendLF append new line? (see \code{\link[base]{message}})
 #'
 #' @return TRUE
-#' @keywords internal
-#'
+#' @export
 message <- function(..., domain = NULL, appendLF = TRUE) {
   if (verbose()) {
     if (interactive()) {

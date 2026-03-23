@@ -28,5 +28,5 @@ Imports:
     curl,
     progress,
     urltools
-URL: https://github.com/scienceverse/svutils
+URL: https://github.com/scienceverse/svutils, http://www.scienceverse.org/svutils/
 BugReports: https://github.com/scienceverse/svutils/issues

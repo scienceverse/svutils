@@ -19,4 +19,3 @@ TRUE
 \description{
 Less scary green messages
 }
-\keyword{internal}
