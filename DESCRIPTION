@@ -1,0 +1,30 @@
+Package: svutils
+Title: Scienceverse Utilities
+Version: 0.0.0.9000
+Authors@R: c(
+    person(
+        given = "Lisa", 
+        family = "DeBruine", 
+        role = c("aut", "cre", "cph"), 
+        email = "debruine@gmail.com", 
+        comment = c(ORCID = "0000-0002-7523-5539")
+    ),
+    person(  given = "Daniel",
+           family = "Lakens",
+           role = c("aut"),
+           email = "lakens@gmail.com",
+           comment = c(ORCID = "0000-0002-0247-239X")
+    )
+  )
+Description: Provides common utility functions for scienceverse packages.
+License: AGPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    curl,
+    progress,
+    urltools
